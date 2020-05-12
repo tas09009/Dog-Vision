@@ -12,6 +12,7 @@ The data we're using is from Kaggle's dog breed identification competition.
 https://www.kaggle.com/c/dog-breed-identification/data
 ## 1. Evaluation
 The evaluation is a file with prediction probabilities for each dog breed of each test image.
+Used the MobileNet V2 model: https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4
 
 https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 ## 1. Features
